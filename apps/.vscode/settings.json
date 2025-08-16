@@ -1,0 +1,14 @@
+{
+    "emmet.preferences": {
+        
+    },
+    "emmet.syntaxProfiles": {
+
+    },
+
+    "emmet.includeLanguages": {
+        // "javascript": "javascriptreact"
+    },
+    "C_Cpp.default.compilerPath": "",
+    "terminal.integrated.automationProfile.windows": {}
+}
